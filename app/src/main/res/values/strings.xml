@@ -1,0 +1,181 @@
+<resources>
+    <string name="app_name">Kinga</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_logout">Logout</string>
+    <string name="app_no_internet_connection_message">No internet connection.</string>
+
+    <string name="app_profile_image_desc">Profile Picture</string>
+    <string name="app_keyboard_right_icon_desc">Right Arrow</string>
+    <string name="app_file_icon_desc">File Icon</string>
+    <string name="app_send_icon_desc">Send Icon</string>
+    <string name="app_email_icon_desc">Email Icon</string>
+    <string name="app_phone_icon_desc">Phone Icon</string>
+    <string name="app_company_icon_desc">Company Icon</string>
+    <string name="app_location_icon_desc">Location Icon</string>
+    <string name="app_date_icon_desc">Date Icon</string>
+
+    <string name="menu_payment">Payment</string>
+    <string name="menu_support">Support</string>
+    <string name="menu_promotions">Promotions</string>
+    <string name="menu_trips">Trips</string>
+    <string name="menu_profile">Profile</string>
+
+    <!-- Strings related to forms -->
+    <string name="default_amount_value">0.00</string>
+
+    <string name="field_amount_title">Amount</string>
+    <string name="field_comment_title">Comment</string>
+    <string name="field_search_title">Search</string>
+    <string name="field_name_title">Name</string>
+    <string name="field_first_name_title">First name</string>
+    <string name="field_last_name_title">Last name</string>
+    <string name="field_email_title">Email</string>
+    <string name="field_phone_title">Phone</string>
+    <string name="field_address_title">Address</string>
+    <string name="field_city_title">City</string>
+    <string name="field_region_title">Region</string>
+    <string name="field_location_title">Location</string>
+    <string name="field_business_name_title">Business name</string>
+    <string name="field_postal_code_title">Postal code</string>
+    <string name="field_country_title">Country</string>
+    <string name="field_customer_code_title">Customer code</string>
+    <string name="field_credit_limit_title">Credit limit</string>
+    <string name="field_current_debt_title">Current debt</string>
+    <string name="field_minimum_stock_level_title">Minimum stock level</string>
+    <string name="field_stock_units_title">Stock units</string>
+    <string name="field_quantity_title">Quantity</string>
+    <string name="field_gender_title">Gender</string>
+    <string name="field_password_title">Password</string>
+    <string name="field_password1_title">Password</string>
+    <string name="field_points_title">Points</string>
+    <string name="field_password2_title">Password confirmation</string>
+    <string name="field_value_title">Value</string>
+    <string name="field_rate_title">Rate</string>
+    <string name="field_pick_color_title">Pick color</string>
+    <string name="field_category_title">Category</string>
+    <string name="field_tax_title">Tax</string>
+    <string name="field_sold_by_title">Sold by</string>
+    <string name="field_each_title">Each</string>
+    <string name="field_weight_title">Weight</string>
+    <string name="field_price_title">Price</string>
+    <string name="field_cost_title">Cost</string>
+    <string name="field_sku_title">Sku</string>
+    <string name="field_barcode_title">Barcode</string>
+    <string name="field_inventory_title">Inventory</string>
+    <string name="field_track_stock_title">Track stock</string>
+    <string name="field_variants_title">Variants</string>
+    <string name="field_show_variants_info_title">Show variants info</string>
+    <string name="field_modifiers_title">Modifiers</string>
+    <string name="field_representation_title">Representation on POS</string>
+    <string name="field_color_title">Color</string>
+    <string name="field_image_title">Image</string>
+    <string name="field_pick_image_title">Pick image</string>
+    <string name="field_use_camera_to_scan_barcode_title">Use camera to scan barcodes</string>
+    <string name="field_all_products_title">All products</string>
+    <string name="field_minus_symbol">-</string>
+    <string name="field_add_symbol">+</string>
+    <string name="field_out_of_stock_text">%1$s in stock</string>
+
+    <string name="field_cannot_be_empty">%1$s cannot be empty</string>
+    <string name="field_string_too_long">%1$s cannot be more than %2$d characters long</string>
+    <string name="field_digit_too_long">%1$s cannot be more than %2$d digits long</string>
+    <string name="field_digit_cannot_be_zero">%1$s must be more than %2$d</string>
+    <string name="field_digit_cannot_be_more_than">%1$s cannot be more than %2$d</string>
+    <string name="field_phone_invalid">Phone must start with 254</string>
+    <string name="field_phone_too_long">Phone is too long</string>
+    <string name="field_phone_too_short">Phone is too short</string>
+    <string name="field_email_invalid">Enter a valid Email address</string>
+    <string name="field_email_not_unique">User with this Email already exists</string>
+    <string name="field_password_empty">Password cannot be empty</string>
+    <string name="field_password_too_short">Password must have at least 8 characters</string>
+    <string name="field_password_too_long">Password is too long</string>
+    <string name="field_passwords_mismatch">Passwords do not match</string>
+    <string name="field_digit_invalid">Enter a valid digit</string>
+    <string name="percentage_sign">%</string>
+
+    <string name="field_save_title">Save</string>
+    <string name="field_send_title">Send</string>
+    <string name="field_yes_title">Yes</string>
+    <string name="field_no_title">No</string>
+    <string name="field_ok_title">OK</string>
+    <string name="field_continue_title">Continue</string>
+    <string name="field_cancel_title">Cancel</string>
+    <string name="field_unsaved_changes_title">Unsaved changes</string>
+    <string name="field_delete_title">Delete</string>
+    <string name="field_logout_title">Logout</string>
+    <string name="field_log_out_pos_title">Log out from other POS devices</string>
+    <string name="field_edit_profile_title">Edit profile</string>
+    <string name="field_create_title">Create</string>
+    <string name="field_open_shift_title">Open shift</string>
+    <string name="field_pay_in_title">Pay in</string>
+    <string name="field_pay_out_title">Pay Out</string>
+    <string name="field_cash_management_title">Cash management</string>
+    <string name="field_close_shift_title">Close shift</string>
+    <string name="field_nothing_here_title">Add New</string>
+    <string name="field_add_new_title">Add New</string>
+
+
+
+
+    <!-- Strings related to login -->
+    <string name="login_title_text">Kinga</string>
+    <string name="login_subtitle_text">Login</string>
+    <string name="login_btn_text">Login</string>
+    <string name="sign_customer_btn_text">Customer Signup</string>
+    <string name="sign_rider_btn_text">Rider Signup</string>
+
+    <string name="login_sign_up_btn_text">Sign Up</string>
+    <string name="login_dialog_text">Authenticating&#8230;</string>
+    <string name="splash_text">Getting things ready for you</string>
+    <string name="profile_view_email_icon_title">Email</string>
+    <string name="profile_view_phone_icon_title">Phone</string>
+
+    <!-- Error messages -->
+    <string name="error_message_when_parameters_are_wrong">Content Error</string>
+    <string name="not_found_message">No %1$s found.</string>
+    <string name="not_found_message_with_add_option">No %1$s found. Do you want to create a new one?</string>
+    <string name="error_generic_message">Unknown Error</string>
+    <string name="no_permission_message">Enable app permission to enable this feature</string>
+    <string name="textview">textview</string>
+
+    <string name="no_results_found">No results found.</string>
+    <string name="app_add_icon_desc">Add Icon</string>
+    <string name="app_error_icon_desc">Error Icon</string>
+
+    <string name="trip_not_found_title">Trip not found</string>
+    <string name="trip_not_found_message">A trip with the barcode %1$s could not be found</string>
+    <string name="app_empty_icon_desc">Empty Icon</string>
+
+    <string name="profile_view_change_password_btn_text">Change Password</string>
+    <string name="profile_view_edit_profile_btn_text">Edit Profile</string>
+    <string name="profile_view_join_date_icon_title">Join date</string>
+    <string name="profile_view_location_icon_title">Location</string>
+    <string name="view_profile_text">View profile</string>
+
+    <!-- Strings related to sign up -->
+    <string name="sign_up_btn_text">Sign Up</string>
+    <string name="sign_up_customer_text">Sign Up</string>
+    <string name="field_vehicle_registration_number_title">Bike registration number title</string>
+    <string name="field_vehicle_model_name_title">Bike model name</string>
+    <string name="field_vehicle_color_title">Bike color</string>
+
+    <!-- Arrays -->
+    <string-array name="account_create_gender_array">
+        <item>--------</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="dialog_please_wait_text">%1$s&#8230; Please wait&#8230;</string>
+    <string name="new_not_allowed">New %1$s are not allowed at the moment. Please try again later.</string>
+    <string name="menu_new_trip">New trip</string>
+    <string name="field_location_from">From</string>
+    <string name="default_location_from">Nairobi</string>
+    <string name="where_to">Where to</string>
+
+</resources>

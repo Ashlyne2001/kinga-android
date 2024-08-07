@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_trip_create">
+
+    <fragment
+        android:id="@+id/nav_trip_create"
+        android:name="com.example.kinga.ui.trips.tripCreate.TripCreateMapFragment"
+        android:label="@string/menu_new_trip"
+        tools:layout="@layout/trips_trip_create_trips_fragment_maps" />
+
+    <fragment
+        android:id="@+id/nav_trip_index"
+        android:name="com.example.kinga.ui.trips.tripIndex.TripIndexFragment"
+        android:label="@string/menu_trips"
+        tools:layout="@layout/fragment_trips_trip_index" />
+
+    <fragment
+        android:id="@+id/nav_payment"
+        android:name="com.example.kinga.ui.payment.PaymentFragment"
+        android:label="@string/menu_payment"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_support"
+        android:name="com.example.kinga.ui.support.SupportFragment"
+        android:label="@string/menu_support"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_discount"
+        android:name="com.example.kinga.ui.promotions.PromotionsFragment"
+        android:label="@string/menu_promotions"
+        tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/nav_profile_view"
+        android:name="com.example.kinga.ui.profiles.profileView.ProfileViewFragment"
+        android:label="@string/menu_profile"
+        tools:layout="@layout/fragment_profiles_profile_view" />
+
+</navigation>
